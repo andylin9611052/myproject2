@@ -5,6 +5,6 @@ public class Scoring {
         Student jack = new Student();
         jack.name = "Jack";
         jack.english = 90;
-        jack.math = 70;
+        jack.math = 80;
     }
 }
