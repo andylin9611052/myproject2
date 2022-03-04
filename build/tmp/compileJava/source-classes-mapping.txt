@@ -1,2 +1,4 @@
 com/lin/Hello.java
  com.lin.Hello
+com/lin/scoringNG.java
+ com.lin.scoringNG
