@@ -1,4 +1,14 @@
-com/lin/Hello.java
- com.lin.Hello
+com/lin/Student.java
+ com.lin.Student
 com/lin/scoringNG.java
  com.lin.scoringNG
+com/lin/Scoring.java
+ com.lin.Scoring
+com/lin/Hello.java
+ com.lin.Hello
+com/lin/Customer.java
+ com.lin.Customer
+com/lin/SalesTester.java
+ com.lin.SalesTester
+com/lin/SilverCustomer.java
+ com.lin.SilverCustomer
