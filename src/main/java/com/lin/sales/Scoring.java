@@ -1,4 +1,4 @@
-package com.lin;
+package com.lin.sales;
 
 public class Scoring {
     public static void main(String[] args) {

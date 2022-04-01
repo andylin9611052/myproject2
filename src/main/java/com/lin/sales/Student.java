@@ -1,4 +1,4 @@
-package com.lin;
+package com.lin.sales;
 
 public class Student {
     String name;
