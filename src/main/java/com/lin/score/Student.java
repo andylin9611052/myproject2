@@ -1,4 +1,4 @@
-package com.lin.sales;
+package com.lin.score;
 
 public class Student {
     String name;
