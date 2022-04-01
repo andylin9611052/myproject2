@@ -12,7 +12,19 @@ com/lin/sales/GoldenCustomer.java
  com.lin.sales.GoldenCustomer
 com/lin/sales/SilverCustomer.java
  com.lin.sales.SilverCustomer
-com/lin/sales/SalesTester.java
- com.lin.sales.SalesTester
 com/lin/sales/PlatinumCustomer.java
  com.lin.sales.PlatinumCustomer
+com/lin/sales/SalesTester.java
+ com.lin.sales.SalesTester
+com/lin/ticket/Station.java
+ com.lin.ticket.Station
+com/lin/ticket/Ticket.java
+ com.lin.ticket.Ticket
+com/lin/ticket/StudentTicket.java
+ com.lin.ticket.StudentTicket
+com/lin/ticket/ReturnTicket.java
+ com.lin.ticket.ReturnTicket
+com/lin/ticket/ElderTicket.java
+ com.lin.ticket.ElderTicket
+com/lin/ticket/Tester.java
+ com.lin.ticket.Tester
