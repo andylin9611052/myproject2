@@ -8,7 +8,7 @@ public class Runner {
         String id = "ABC-1234";
         //String id = "13545747t6d6g3";
         String enterTime = "08:00";
-        String exitTime = "11:05";
+        String exitTime = "11:59";
         SimpleDateFormat sdf =
                 new SimpleDateFormat("HH:mm");
         Date d = null;
@@ -27,11 +27,19 @@ public class Runner {
             System.out.println(d2);
             System.out.println(d2.getTime());
             int min = ((int)(d2.getTime() - d.getTime())/1000/60);
-            System.out.println(min);
+            System.out.println("min: " + min);
             int fee = 30*(min/60);
-            System.out.println("Fee:" + fee);
             //3:14 => NTD$90 , 3:15 => NTD$120
+            int blackheart = min%60;
+            if(blackheart >= 15 && blackheart < 30) {
+                fee = fee + 30;
+            }
             //3:15-3:30 => NTD$105
+            else {
+                fee = fee + 15;
+            }
+            System.out.println("black: " + blackheart);
+            System.out.println("Fee:" + fee);
         } catch (Exception e) {
             System.out.println("exit wrong format");
         }
