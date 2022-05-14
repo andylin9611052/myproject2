@@ -36,5 +36,7 @@ com/lin/sales/GoldenCustomer.java
  com.lin.sales.GoldenCustomer
 com/lin/sales/PlatinumCustomer.java
  com.lin.sales.PlatinumCustomer
-com/lin/parking/Runner.java
- com.lin.parking.Runner
+com/lin/parking/RunnerBlack.java
+ com.lin.parking.RunnerBlack
+com/lin/parking/RunnerNormal.java
+ com.lin.parking.RunnerNormal

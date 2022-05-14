@@ -3,7 +3,7 @@ package com.lin.parking;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Runner {
+public class RunnerNormal {
     public static void main(String[] args) {
         String id = "ABC-1234";
         //String id = "13545747t6d6g3";
@@ -31,13 +31,10 @@ public class Runner {
             int fee = 30*(min/60);
             //3:14 => NTD$90 , 3:15 => NTD$120
             int blackheart = min%60;
-            if(blackheart >= 15 && blackheart < 30) {
-                fee = fee + 30;
-            }
-            //3:15-3:30 => NTD$105
-            else {
+            if(blackheart >= 30) {
                 fee = fee + 15;
             }
+            //3:15-3:30 => NTD$105
             System.out.println("black: " + blackheart);
             System.out.println("Fee:" + fee);
         } catch (Exception e) {
