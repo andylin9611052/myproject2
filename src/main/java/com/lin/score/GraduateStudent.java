@@ -1,5 +1,7 @@
 package com.lin.score;
 
+import com.lin.score.Student;
+
 public class GraduateStudent extends Student {
     int thesis;
 

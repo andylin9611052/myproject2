@@ -18,7 +18,7 @@ public class Scoring {
         hack.print();
         */
         List<Student> students = new ArrayList<>();
-        students.add(new Student("Jack",70,88););
+        students.add(new Student("Jack",70,88));
         students.add(new Student("Hank",60,30));
         students.add(new GraduateStudent("Jane", 70, 80, 60));
         for (Student c: students) {

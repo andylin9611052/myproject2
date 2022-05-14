@@ -1,9 +1,9 @@
 package com.lin.score;
 
-public class Student {
-    String name;
-    int english;
-    int math;
+public class Student implements Printable{
+    public String name;
+    protected int english;
+    protected int math;
 
     public Student(String name) {
         this.name = name;
@@ -22,7 +22,7 @@ public class Student {
 //                english = -1;
 //                math = -1;
     }
-
+    @Override
     public void print() {
         System.out.print(name +
                 "\t" + english + "\t" +
