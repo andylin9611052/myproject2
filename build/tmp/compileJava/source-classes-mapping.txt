@@ -40,3 +40,8 @@ com/lin/parking/RunnerBlack.java
  com.lin.parking.RunnerBlack
 com/lin/parking/RunnerNormal.java
  com.lin.parking.RunnerNormal
+com/lin/ui/MyActionListener.java
+ com.lin.ui.MyActionListener
+com/lin/ui/MyWin.java
+ com.lin.ui.MyWin
+ com.lin.ui.MyWin$1
