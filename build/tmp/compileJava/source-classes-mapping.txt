@@ -45,3 +45,7 @@ com/lin/ui/MyActionListener.java
 com/lin/ui/MyWin.java
  com.lin.ui.MyWin
  com.lin.ui.MyWin$1
+com/lin/ui2/TestWin.java
+ com.lin.ui2.TestWin
+ com.lin.ui2.TestWin$1
+ com.lin.ui2.TestWin$2

@@ -27,7 +27,7 @@ public class MyWin {
             //   button.addActionListener(listener);
                 frame.setLayout(new FlowLayout());
         frame.add(button);
-        frame.add(new JButton("Testing"));
+        frame.add(new Button("Testing"));
         frame.setVisible(true);
 
         System.out.println("END?");
