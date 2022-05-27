@@ -23,8 +23,8 @@ public class MyWin {
                 System.out.println("hahaha");
             }
         });
-            //   MyActionListener listener = new MyActionListener();
-            //   button.addActionListener(listener);
+               //MyActionListener listener = new MyActionListener();
+               //button.addActionListener(listener);
                 frame.setLayout(new FlowLayout());
         frame.add(button);
         frame.add(new Button("Testing"));
