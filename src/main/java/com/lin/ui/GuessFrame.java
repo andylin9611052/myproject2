@@ -25,6 +25,7 @@ public class GuessFrame extends JFrame {
         add(button);
         add(label);
         setVisible(true);
+
     }
 
 
