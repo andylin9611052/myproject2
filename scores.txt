@@ -1,2 +1,5 @@
-Jack 70 88
-Hank 60 30
+Jack,70,88
+Hank,60,30
+Teddy,74,86,77
+Eric,88,44
+Ella,92,79
