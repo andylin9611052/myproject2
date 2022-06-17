@@ -1,27 +1,15 @@
-com/lin/score/scoringNG.java
- com.lin.score.scoringNG
-com/lin/ticket/Tester.java
- com.lin.ticket.Tester
-com/lin/sales/SalesTester.java
- com.lin.sales.SalesTester
+com/lin/parking/RunnerBlack.java
+ com.lin.parking.RunnerBlack
 com/lin/score/GraduateStudent.java
  com.lin.score.GraduateStudent
-com/lin/Hello.java
- com.lin.Hello
+com/lin/ui/MyForm.java
+ com.lin.ui.MyForm
+com/lin/parking/RunnerNormal.java
+ com.lin.parking.RunnerNormal
 com/lin/sales/MyClass.java
  com.lin.sales.MyClass
 com/lin/ticket/ElderTicket.java
  com.lin.ticket.ElderTicket
-com/lin/ticket/Station.java
- com.lin.ticket.Station
-com/lin/sales/MyInterFace.java
- com.lin.sales.MyInterFace
-com/lin/ticket/Ticket.java
- com.lin.ticket.Ticket
-com/lin/ticket/ReturnTicket.java
- com.lin.ticket.ReturnTicket
-com/lin/score/Scoring.java
- com.lin.score.Scoring
 com/lin/score/Student.java
  com.lin.score.Student
 com/lin/score/Printable.java
@@ -30,27 +18,41 @@ com/lin/sales/Customer.java
  com.lin.sales.Customer
 com/lin/ticket/StudentTicket.java
  com.lin.ticket.StudentTicket
-com/lin/sales/SilverCustomer.java
- com.lin.sales.SilverCustomer
 com/lin/sales/GoldenCustomer.java
  com.lin.sales.GoldenCustomer
-com/lin/sales/PlatinumCustomer.java
- com.lin.sales.PlatinumCustomer
-com/lin/parking/RunnerBlack.java
- com.lin.parking.RunnerBlack
-com/lin/parking/RunnerNormal.java
- com.lin.parking.RunnerNormal
+com/lin/sales/SilverCustomer.java
+ com.lin.sales.SilverCustomer
+com/lin/ui/MyWin.java
+ com.lin.ui.MyWin
+ com.lin.ui.MyWin$1
+com/lin/score/scoringNG.java
+ com.lin.score.scoringNG
+com/lin/ui/GuessFrame.java
+ com.lin.ui.GuessFrame
+ com.lin.ui.GuessFrame$1
+com/lin/ticket/Tester.java
+ com.lin.ticket.Tester
+com/lin/sales/SalesTester.java
+ com.lin.sales.SalesTester
+com/lin/Hello.java
+ com.lin.Hello
+com/lin/ticket/Station.java
+ com.lin.ticket.Station
+com/lin/sales/MyInterFace.java
+ com.lin.sales.MyInterFace
+com/lin/ticket/Ticket.java
+ com.lin.ticket.Ticket
+com/lin/ticket/ReturnTicket.java
+ com.lin.ticket.ReturnTicket
 com/lin/ui/MyActionListener.java
  com.lin.ui.MyActionListener
+com/lin/score/Scoring.java
+ com.lin.score.Scoring
+com/lin/sales/PlatinumCustomer.java
+ com.lin.sales.PlatinumCustomer
 com/lin/ui2/TestWin.java
  com.lin.ui2.TestWin
  com.lin.ui2.TestWin$1
  com.lin.ui2.TestWin$2
-com/lin/ui/MyWin.java
- com.lin.ui.MyWin
- com.lin.ui.MyWin$1
-com/lin/ui/MyForm.java
- com.lin.ui.MyForm
-com/lin/ui/GuessFrame.java
- com.lin.ui.GuessFrame
- com.lin.ui.GuessFrame$1
+com/lin/score/ScoringFile.java
+ com.lin.score.ScoringFile
