@@ -16,7 +16,7 @@ public class TestWin1 {
         button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                System.out.println("!!!");
+                System.out.println("!!");
             }
         });
         button1.addActionListener(new ActionListener() {
